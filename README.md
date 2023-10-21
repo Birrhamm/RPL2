@@ -10,7 +10,7 @@
 
 # Use Case Diagram
 
-![image](https://github.com/Birrhamm/RPL2/assets/115520530/1a7d34f1-2a95-416d-a744-2e91d190d218)
+![image](https://github.com/Birrhamm/RPL2/assets/115520530/40912e6e-7f02-429b-9a25-42464db220cf)
 
 # Activity Diagram Login
 
@@ -23,5 +23,10 @@
 # Squence Diagram
 
 ![image](https://github.com/Birrhamm/RPL2/assets/115520530/debd89bf-101e-45b2-a830-8da1cf7b2d5e)
+
+# Class Diagram
+
+![image](https://github.com/Birrhamm/RPL2/assets/115520530/df53d4a4-7253-4813-b717-988fe316facc)
+
 
 
